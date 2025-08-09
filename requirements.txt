@@ -11,7 +11,6 @@ tweepy==4.14.0
 praw==7.7.1
 
 # Database and logging
-sqlite3  # Built-in with Python
 APScheduler==3.10.4
 
 # Utilities
